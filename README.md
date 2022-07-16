@@ -5,5 +5,5 @@ Please run the below command in order to run this e-com website
 npm i
 npm install react-bootstrap bootstrap
 
-2. Run this site
+2. To run this site:
 npm start
